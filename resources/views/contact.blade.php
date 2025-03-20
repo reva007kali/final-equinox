@@ -98,24 +98,33 @@
         <!-- FAQ Section -->
         <div class="mt-12 max-w-2xl mx-auto">
             <h2 class="text-2xl font-semibold text-primary text-center">Frequently Asked Questions</h2>
+
+
+            <!-- faqs row -->
             <div class="mt-6 space-y-4">
+
                 <details class="bg-white p-4 rounded-lg shadow-md">
                     <summary class="cursor-pointer font-semibold text-lg">How can I apply for a cruise job?</summary>
                     <p class="mt-2 text-gray-600">You can apply by visiting our recruitment page and submitting your
                         application online.</p>
                 </details>
+
                 <details class="bg-white p-4 rounded-lg shadow-md">
                     <summary class="cursor-pointer font-semibold text-lg">What documents do I need?</summary>
                     <p class="mt-2 text-gray-600">You need a passport, seaman's book, STCW certificates, and other
                         required documents.</p>
                 </details>
+
                 <details class="bg-white p-4 rounded-lg shadow-md">
                     <summary class="cursor-pointer font-semibold text-lg">How long does the recruitment process take?
                     </summary>
                     <p class="mt-2 text-gray-600">The process varies but typically takes a few months, depending on the
                         position.</p>
                 </details>
+                
             </div>
+
+
         </div>
     </div>
 </x-app-layout>

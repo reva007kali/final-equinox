@@ -18,6 +18,12 @@ Route::get('/crewing-services', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/hotel', function () {
+    return view('hotel');
+});
+Route::get('/marine', function () {
+    return view('marine');
+});
 
 
 

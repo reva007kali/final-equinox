@@ -1,0 +1,109 @@
+{
+  "public/img/Jumbo-trons/about-1.JPG": {
+    "file": "assets/about-1-C6RjQxsV.JPG",
+    "src": "public/img/Jumbo-trons/about-1.JPG"
+  },
+  "public/img/Jumbo-trons/about-2.png": {
+    "file": "assets/about-2-UNdCmc-O.png",
+    "src": "public/img/Jumbo-trons/about-2.png"
+  },
+  "public/img/Jumbo-trons/services-1.JPG": {
+    "file": "assets/services-1-pf43QS8u.JPG",
+    "src": "public/img/Jumbo-trons/services-1.JPG"
+  },
+  "public/img/Jumbo-trons/services-2.JPG": {
+    "file": "assets/services-2-CfnbErfs.JPG",
+    "src": "public/img/Jumbo-trons/services-2.JPG"
+  },
+  "public/img/Jumbo-trons/services-3.JPG": {
+    "file": "assets/services-3-CImTyPSc.JPG",
+    "src": "public/img/Jumbo-trons/services-3.JPG"
+  },
+  "public/img/Jumbo-trons/slide2.jpg": {
+    "file": "assets/slide2-DaID9y5d.jpg",
+    "src": "public/img/Jumbo-trons/slide2.jpg"
+  },
+  "public/img/crew/2.jpg": {
+    "file": "assets/2-CAgRF6GH.jpg",
+    "src": "public/img/crew/2.jpg"
+  },
+  "public/img/crew/marine.jpg": {
+    "file": "assets/marine-BEkw2GDb.jpg",
+    "src": "public/img/crew/marine.jpg"
+  },
+  "public/img/department/1.png": {
+    "file": "assets/1-6YwR84Hn.png",
+    "src": "public/img/department/1.png"
+  },
+  "public/img/department/3.png": {
+    "file": "assets/3-D55TCVCj.png",
+    "src": "public/img/department/3.png"
+  },
+  "public/img/department/4.png": {
+    "file": "assets/4-E2r5oNCq.png",
+    "src": "public/img/department/4.png"
+  },
+  "public/img/department/5.png": {
+    "file": "assets/5-QX4YG0b2.png",
+    "src": "public/img/department/5.png"
+  },
+  "public/img/equinox/bridge.jpg": {
+    "file": "assets/bridge-Catxi_og.jpg",
+    "src": "public/img/equinox/bridge.jpg"
+  },
+  "public/img/offices/bali1.jpg": {
+    "file": "assets/bali1-C9wLxU9S.jpg",
+    "src": "public/img/offices/bali1.jpg"
+  },
+  "public/img/offices/jakarta3.jpg": {
+    "file": "assets/jakarta3-CnAODE-X.jpg",
+    "src": "public/img/offices/jakarta3.jpg"
+  },
+  "public/img/services/deployment.JPG": {
+    "file": "assets/deployment-Bg1C6u3n.JPG",
+    "src": "public/img/services/deployment.JPG"
+  },
+  "public/img/services/document.JPG": {
+    "file": "assets/document-DlQ1BKXi.JPG",
+    "src": "public/img/services/document.JPG"
+  },
+  "public/img/services/recruitment.JPG": {
+    "file": "assets/recruitment-bbNfypSU.JPG",
+    "src": "public/img/services/recruitment.JPG"
+  },
+  "public/img/services/visa.png": {
+    "file": "assets/visa-BExVgI2a.png",
+    "src": "public/img/services/visa.png"
+  },
+  "public/img/ships/4.jpg": {
+    "file": "assets/4-Dp6_d2Hd.jpg",
+    "src": "public/img/ships/4.jpg"
+  },
+  "public/img/ships/marine.jpg": {
+    "file": "assets/marine-DkfDJyB_.jpg",
+    "src": "public/img/ships/marine.jpg"
+  },
+  "public/img/ships/ship1.jpg": {
+    "file": "assets/ship1-DOuhn9e-.jpg",
+    "src": "public/img/ships/ship1.jpg"
+  },
+  "public/img/ships/ship2.jpg": {
+    "file": "assets/ship2-nisBRb4_.jpg",
+    "src": "public/img/ships/ship2.jpg"
+  },
+  "public/img/team/contac.JPG": {
+    "file": "assets/contac-BJCiSjv0.JPG",
+    "src": "public/img/team/contac.JPG"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CKJHfusB.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Cl5RxutH.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
